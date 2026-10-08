@@ -1,0 +1,35 @@
+{
+  "name": "adspirer-social-ads",
+  "displayName": "Adspirer Social Ads",
+  "version": "1.0.0",
+  "description": "Analyze Meta and TikTok ad performance, investigate creative fatigue and conversion problems, and create and optimize paid-social campaigns with your approval.",
+  "author": {
+    "name": "Adspirer",
+    "email": "support@adspirer.com"
+  },
+  "homepage": "https://www.adspirer.com",
+  "repository": "https://github.com/Adspirer/adspirer-social-ads-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/icon.png",
+  "keywords": [
+    "Meta Ads",
+    "Facebook Ads",
+    "Instagram Ads",
+    "TikTok Ads",
+    "paid social",
+    "creative fatigue",
+    "campaign performance",
+    "conversion tracking"
+  ],
+  "category": "data-analytics",
+  "tags": [
+    "analytics",
+    "advertising",
+    "paid-social",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "rules": "./rules/",
+  "mcpServers": "./mcp.json"
+}
