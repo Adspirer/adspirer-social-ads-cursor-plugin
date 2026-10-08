@@ -1,8 +1,8 @@
 {
   "name": "adspirer-social-ads",
   "displayName": "Adspirer Social Ads",
-  "version": "1.0.1",
-  "description": "Analyze Meta and TikTok ad performance, investigate creative fatigue and conversion problems, and create and optimize paid-social campaigns with your approval.",
+  "version": "1.0.2",
+  "description": "Social advertising agent for Meta and TikTok. Create campaigns, test creative, spot wasted spend, and optimize paid-social performance—with your approval.",
   "author": {
     "name": "Adspirer",
     "email": "support@adspirer.com"

@@ -1,7 +1,6 @@
 # Adspirer Social Ads for Cursor and Grok Bot
 
-Analyze Meta (Facebook/Instagram) and TikTok ad performance, investigate creative fatigue
-and conversion problems, and create and optimize campaigns with your approval.
+Social advertising agent for Meta and TikTok. Create campaigns, test creative, spot wasted spend, and optimize paid-social performance—with your approval.
 
 **Requested category: Productivity.** Cursor controls final placement and verification.
 **Publisher:** Adspirer. **Display name:** Adspirer Social Ads. **Plugin ID:** adspirer-social-ads.
