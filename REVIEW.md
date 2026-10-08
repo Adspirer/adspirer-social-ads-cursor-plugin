@@ -1,7 +1,7 @@
 # Review readiness
 
 Requested publisher: existing Adspirer company publisher.
-Requested category: Data & Analytics. New verification is not inherited.
+Requested category: Productivity. New verification is not inherited.
 This package is not submitted or approved merely because the repo is public.
 
 ## Pending before submission

@@ -4,7 +4,7 @@ import path from 'node:path';
 const read = p => fs.readFileSync(p, 'utf8');
 const manifest = JSON.parse(read('.cursor-plugin/plugin.json'));
 assert.equal(manifest.name, 'adspirer-social-ads');
-assert.equal(manifest.category, 'data-analytics');
+assert.equal(manifest.category, 'productivity');
 assert.match(manifest.version, /^\d+\.\d+\.\d+$/);
 assert.equal(manifest.repository, 'https://github.com/Adspirer/adspirer-social-ads-cursor-plugin');
 assert.deepEqual(JSON.parse(read('mcp.json')), {mcpServers:{'adspirer-social-ads':{type:'http',url:'https://mcp.adspirer.com/social-ads'}}});

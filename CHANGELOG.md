@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Changed the requested marketplace category to Productivity; skills and MCP endpoint unchanged.
+
 ## 1.0.0
 
 - Initial company-owned Social Ads package using the existing hosted MCP endpoint.

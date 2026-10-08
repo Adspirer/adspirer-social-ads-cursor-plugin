@@ -3,7 +3,7 @@
 Analyze Meta (Facebook/Instagram) and TikTok ad performance, investigate creative fatigue
 and conversion problems, and create and optimize campaigns with your approval.
 
-**Requested category: Data & Analytics.** Cursor controls final placement and verification.
+**Requested category: Productivity.** Cursor controls final placement and verification.
 **Publisher:** Adspirer. **Display name:** Adspirer Social Ads. **Plugin ID:** adspirer-social-ads.
 
 ## Installation and status

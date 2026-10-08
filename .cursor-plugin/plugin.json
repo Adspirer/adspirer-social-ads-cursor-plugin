@@ -1,7 +1,7 @@
 {
   "name": "adspirer-social-ads",
   "displayName": "Adspirer Social Ads",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze Meta and TikTok ad performance, investigate creative fatigue and conversion problems, and create and optimize paid-social campaigns with your approval.",
   "author": {
     "name": "Adspirer",
@@ -21,7 +21,7 @@
     "campaign performance",
     "conversion tracking"
   ],
-  "category": "data-analytics",
+  "category": "productivity",
   "tags": [
     "analytics",
     "advertising",
