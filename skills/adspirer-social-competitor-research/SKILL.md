@@ -1,11 +1,11 @@
 ---
-name: adspirer-social-competitors
-description: Research public competitor ads and creative messaging using supported Meta or TikTok sources.
+name: adspirer-social-competitor-research
+description: Research competitor social ads through Adspirer. Use for public Meta and TikTok creative, offers, and messaging from user-supplied domains, subject to source coverage.
 ---
 
 # Public competitor ads
 
-Load adspirer-social-mcp and inspect competitor_ads_research's live schema.
+Load adspirer-social-ads-tools and inspect competitor_ads_research's live schema.
 Ask for user-supplied domains, geography, and platforms. Explicitly select supported Meta or
 TikTok sources when available; do not accept a Google default as a paid-social report.
 Disclose regional/source coverage limits. Public research may not need an ad account,

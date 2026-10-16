@@ -1,6 +1,6 @@
 ---
-name: adspirer-social-docs
-description: Answer questions about Adspirer itself — pricing, plans, quota and tool-call limits, what Adspirer can do, connecting an ad account, supported platforms and AI clients, security, and troubleshooting. Uses the official documentation at adspirer.com/docs rather than guessing.
+name: adspirer-product-help
+description: Answer Adspirer pricing, plan, setup, and troubleshooting questions using current official documentation. Distinguish product capabilities from this connector's Meta and TikTok tools.
 ---
 
 # Adspirer product questions
@@ -49,7 +49,7 @@ move too. Point at the docs.
 Only these:
 
 - `https://adspirer.ai` — the web app
-- `https://www.adspirer.com/connections` — connect or reconnect an ad account
+- `https://adspirer.ai/connections` — connect or reconnect an ad account
 - `https://adspirer.ai/dashboards` — plural
 - `https://www.adspirer.com/docs` — documentation, and any real page beneath it
 

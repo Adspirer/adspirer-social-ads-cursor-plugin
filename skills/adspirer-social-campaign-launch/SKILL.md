@@ -1,11 +1,11 @@
 ---
-name: adspirer-social-launch
-description: Plan and build approved paused Meta and TikTok campaigns, preserving the original launch workflow and verifying each resource.
+name: adspirer-social-campaign-launch
+description: Plan and create Meta and TikTok campaigns through Adspirer. Use for new paid-social campaign builds with approved budgets, targeting, creative, paused creation, and readback.
 ---
 
 # Launch a paid-social campaign
 
-Adapted from adspirer-launch. Load adspirer-social-mcp and the Meta or TikTok platform skill.
+Adapted from main plugin launch. Load adspirer-social-ads-tools and the Meta or TikTok platform skill.
 Establish the business objective, conversion definition/value, audience, geography, landing
 destination, available assets, daily/monthly budget and currency, and tracking readiness.
 Read existing campaigns first to avoid duplicates.

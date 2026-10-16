@@ -1,12 +1,12 @@
 ---
-name: adspirer-social-creative
-description: Write and refresh Meta and TikTok creative, using brand evidence, supported formats, and approval-controlled updates.
+name: adspirer-social-ad-creative
+description: Write and refresh Meta and TikTok ad creative through Adspirer. Use for ad copy, creative concepts, fatigue analysis, and proposed tests based on brand and performance evidence.
 ---
 
 # Ad creative
 
-Adapted from adspirer-creative: evidence first, differentiated variants, visible limits,
-fatigue diagnosis, and verified approved updates. Load adspirer-social-mcp and the platform skill.
+Adapted from main plugin creative: evidence first, differentiated variants, visible limits,
+fatigue diagnosis, and verified approved updates. Load adspirer-social-ads-tools and the platform skill.
 
 ## Write from evidence
 

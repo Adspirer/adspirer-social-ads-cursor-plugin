@@ -1,11 +1,11 @@
 ---
-name: adspirer-social-performance-review
-description: Read-only Meta and TikTok performance review, scorecards, conversion checks, and evidence-backed recommendations.
+name: adspirer-social-ads-performance
+description: Analyze Meta and TikTok campaign performance through Adspirer. Use for read-only spend, CPA, ROAS, CTR, pacing, and period comparisons with attribution and tracking checks.
 ---
 
 # Performance review
 
-Adapted from adspirer-performance-review. Load adspirer-social-mcp. This skill never changes campaigns.
+Adapted from main plugin performance review. Load adspirer-social-ads-tools. This skill never changes campaigns.
 Check get_connections_status and select the intended account before reading data.
 
 ## Sources
@@ -27,7 +27,7 @@ Show spend, pacing, conversions, CPA, ROAS when revenue exists, CTR/CPC, and com
 an equivalent prior window. Compute blended CPA from comparable totals, not average platform CPAs.
 Lead with the largest supported problem and opportunity, with evidence and caveats.
 Discover available anomaly tools, but treat their explanations as hypotheses unless supported.
-Recommend actions; hand approved changes to adspirer-social-optimize.
+Recommend actions; hand approved changes to adspirer-social-ads-optimization.
 
 ## Repeating reviews
 

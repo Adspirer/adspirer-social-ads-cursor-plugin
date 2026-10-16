@@ -12,7 +12,7 @@ This package is not submitted or approved merely because the repo is public.
 - [ ] Test fresh/returning OAuth and reconcile authenticated tools/list with skills.
 - [ ] Read connections and run authorized Meta and TikTok reports.
 - [ ] Test missing connection, expired auth, quota, unsupported operation, and partial failure.
-- [ ] Test coexistence with Main and Search packages; no wrong-server or duplicate writes.
+- [ ] Test coexistence with Main and Search packages; specifically verify duplicate adspirer-meta-ads and adspirer-tiktok-ads names resolve to the intended package, with no wrong-server or duplicate writes.
 - [ ] With explicit approval, test a paused build and verify status/budget/resources.
 - [ ] Confirm current platform references against actual tool schemas before mutation tests.
 - [ ] Supply a demo or reviewer access if requested, never credentials in this repo.

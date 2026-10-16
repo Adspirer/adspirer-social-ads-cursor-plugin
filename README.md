@@ -1,6 +1,6 @@
 # Adspirer Social Ads for Cursor and Grok Bot
 
-Social advertising agent for Meta and TikTok. Create campaigns, test creative, spot wasted spend, and optimize paid-social performance—with your approval.
+Create Meta and TikTok ad campaigns. Research competitors, develop creative, analyze results, and optimize spending—with your approval.
 
 **Requested category: Productivity.** Cursor controls final placement and verification.
 **Publisher:** Adspirer. **Display name:** Adspirer Social Ads. **Plugin ID:** adspirer-social-ads.
@@ -13,24 +13,24 @@ Social Ads in Plugins or use `/add-plugin adspirer-social-ads`.
 
 The MCP endpoint is **https://mcp.adspirer.com/social-ads** using HTTP and browser OAuth.
 Complete authentication in the host, then connect the relevant account at
-https://www.adspirer.com/connections. An Adspirer account and applicable service access are
+https://adspirer.ai/connections. An Adspirer account and applicable service access are
 required. Plugin installation has no separate fee; underlying service plan/usage rules apply.
 Never paste tokens into chat or commit them to this repo.
 
 ## Included skills
 
-- adspirer-social-docs
-- adspirer-social-agent
-- adspirer-social-creative
-- adspirer-social-performance-review
-- adspirer-social-meta-ads
-- adspirer-social-tiktok-ads
-- adspirer-social-setup
-- adspirer-social-optimize
-- adspirer-social-launch
-- adspirer-social-mcp
-- adspirer-social-funnel
-- adspirer-social-competitors
+- adspirer-product-help
+- adspirer-paid-social
+- adspirer-social-ad-creative
+- adspirer-social-ads-performance
+- adspirer-meta-ads
+- adspirer-tiktok-ads
+- adspirer-connect-ad-accounts
+- adspirer-social-ads-optimization
+- adspirer-social-campaign-launch
+- adspirer-social-ads-tools
+- adspirer-social-conversion-analysis
+- adspirer-social-competitor-research
 
 The platform skills and references originate in our [main Cursor plugin](https://github.com/Adspirer/adspirer-cursor-plugin).
 Shared workflow skills retain the original responsibilities with endpoint-specific changes.

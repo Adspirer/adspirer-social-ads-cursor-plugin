@@ -1,11 +1,11 @@
 ---
-name: adspirer-social-optimize
-description: Find wasted Meta and TikTok spend, review budget pacing, and propose verified approval-controlled optimizations.
+name: adspirer-social-ads-optimization
+description: Find wasted Meta and TikTok spend and improve budget pacing through Adspirer. Use for paid-social optimization recommendations and user-approved changes.
 ---
 
 # Cutting waste and pacing budgets
 
-Adapted from adspirer-optimize. Load adspirer-social-mcp and the relevant platform skill.
+Adapted from main plugin optimization. Load adspirer-social-ads-tools and the relevant platform skill.
 Propose changes, then execute only after approval of the specific action and account.
 
 ## Find waste

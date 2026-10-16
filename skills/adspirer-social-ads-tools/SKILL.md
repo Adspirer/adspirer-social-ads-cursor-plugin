@@ -1,12 +1,12 @@
 ---
-name: adspirer-social-mcp
-description: Discover and safely call the Meta and TikTok read/write routers and direct tools on the Adspirer Social Ads MCP server.
+name: adspirer-social-ads-tools
+description: Discover and call Meta and TikTok advertising tools through the Adspirer Social Ads connection. Use before tool calls to check schemas, choose read or write operations, and handle errors.
 ---
 
 # Social Ads MCP contract
 
 Use only adspirer-social-ads at https://mcp.adspirer.com/social-ads.
-This adapts the original adspirer-mcp contract to the specialist endpoint.
+This adapts the original main plugin MCP contract to the specialist endpoint.
 Inspect the actual client tool list; the source-based expected surface is not a live test.
 
 | Type | Expected tools |

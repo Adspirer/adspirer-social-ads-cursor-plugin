@@ -1,13 +1,13 @@
 ---
-name: adspirer-social-setup
-description: Connect Meta or TikTok and optionally build a preserved, user-approved brand workspace from relevant files and live account data.
+name: adspirer-connect-ad-accounts
+description: Connect Meta and TikTok ad accounts to Adspirer and check connection status. Use for account setup, reconnection, or an optional user-requested brand workspace.
 ---
 
 # Connection and brand workspace setup
 
-Adapted from the original adspirer-setup, preserving connection checks, brand context,
+Adapted from the original main plugin setup, preserving connection checks, brand context,
 a live snapshot, BRAND.md, STRATEGY.md, optional memory, and a summary.
-Load adspirer-social-mcp. Resume the user's original task after setup.
+Load adspirer-social-ads-tools. Resume the user's original task after setup.
 
 ## Connect
 
@@ -16,7 +16,7 @@ If missing, use the client's supported MCP setup UI with that URL; do not instal
 different Adspirer plugin or run Claude-specific commands.
 Let the user complete browser OAuth; never collect passwords or tokens in chat.
 Inspect get_connections_status if advertised. Connect only the relevant
-Meta or TikTok account at https://www.adspirer.com/connections.
+Meta or TikTok account at https://adspirer.ai/connections.
 Ask which account to use when ambiguous. Activating or switching accounts requires consent.
 
 ## Brand context (only when requested)

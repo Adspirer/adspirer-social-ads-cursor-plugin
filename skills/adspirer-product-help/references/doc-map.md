@@ -65,7 +65,7 @@ TikTok: `/docs/ad-platforms/tiktok-ads`
 | Windsurf | `/docs/ai-clients/windsurf` |
 | Manus | `/docs/ai-clients/manus` |
 
-To connect or reconnect an **ad account**, send users to `https://www.adspirer.com/connections`.
+To connect or reconnect an **ad account**, send users to `https://adspirer.ai/connections`.
 
 ## Agent and skills
 
