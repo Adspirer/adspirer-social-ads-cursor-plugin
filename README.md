@@ -2,7 +2,7 @@
 
 Create Meta and TikTok ad campaigns. Research competitors, develop creative, analyze results, and optimize spending—with your approval.
 
-**Requested category: Productivity.** Cursor controls final placement and verification.
+**Requested category: Inbox and Collaboration.** Cursor controls final placement and verification.
 **Publisher:** Adspirer. **Display name:** Adspirer Social Ads. **Plugin ID:** adspirer-social-ads.
 
 ## Installation and status

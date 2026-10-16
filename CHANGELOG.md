@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Request Inbox and Collaboration (`inbox_and_collaboration`) instead of Productivity; final placement remains controlled by Cursor.
+
 ## 1.1.0
 
 - Rename skills around the Adspirer brand and each platform or core task; update all package references.

@@ -1,7 +1,7 @@
 {
   "name": "adspirer-social-ads",
   "displayName": "Adspirer Social Ads",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Create Meta and TikTok ad campaigns. Research competitors, develop creative, analyze results, and optimize spending—with your approval.",
   "author": {
     "name": "Adspirer",
@@ -21,7 +21,7 @@
     "campaign performance",
     "conversion tracking"
   ],
-  "category": "productivity",
+  "category": "inbox_and_collaboration",
   "tags": [
     "analytics",
     "advertising",
